@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\MazeAnalyzer\MazeAnalyzer\bin\Debug\MazeAnalyzer.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MazeAnalyzer\MazeAnalyzer\bin\Debug\MazeAnalyzer.exe
+c:\users\user\documents\visual studio 2015\Projects\MazeAnalyzer\MazeAnalyzer\bin\Debug\MazeAnalyzer.pdb
+c:\users\user\documents\visual studio 2015\Projects\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.exe
+c:\users\user\documents\visual studio 2015\Projects\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.pdb
+C:\Users\Kamiky\Desktop\LenaBoots 3\MazeAnalyzer\MazeAnalyzer\bin\Debug\MazeAnalyzer.exe.config
+C:\Users\Kamiky\Desktop\LenaBoots 3\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.exe
+C:\Users\Kamiky\Desktop\LenaBoots 3\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.pdb
+C:\Users\Kamiky\Desktop\LenaBoots 3\MazeAnalyzer\MazeAnalyzer\bin\Debug\MazeAnalyzer.exe
+C:\Users\Kamiky\Desktop\LenaBoots 3\MazeAnalyzer\MazeAnalyzer\bin\Debug\MazeAnalyzer.pdb
+C:\Users\Kamiky\Desktop\LenaBoots 3\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Kamiky\Desktop\LenaBoots 3\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.Properties.Resources.resources
+C:\Users\Kamiky\Desktop\LenaBoots 3\MazeAnalyzer\MazeAnalyzer\obj\Debug\MazeAnalyzer.csproj.GenerateResource.Cache
